@@ -1,0 +1,13 @@
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\bin\Debug\Clicker Game.exe.config
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\bin\Debug\Clicker Game.exe
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\bin\Debug\Clicker Game.pdb
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csprojResolveAssemblyReference.cache
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.Properties.Resources.resources
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker Game.csproj.GenerateResource.Cache
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker Game.exe
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker Game.pdb
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.LoginForm.resources
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.MenuForm.resources
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.Mudah.resources
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.Sedang.resources
+c:\users\nabhan\documents\visual studio 2015\Projects\Clicker Game\Clicker Game\obj\Debug\Clicker_Game.Sulit.resources
